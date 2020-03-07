@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1381416828 source:c:\mydata\google cloud\acm\11581 grid successors\main.c
+	<stdio.h>
+	<stdlib.h>
+

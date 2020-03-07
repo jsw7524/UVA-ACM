@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1369326578 source:c:\mydata\google cloud\acm\11151 longest palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+

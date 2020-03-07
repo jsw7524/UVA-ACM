@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1368719254 source:c:\mydata\google cloud\acm\793 network connections\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

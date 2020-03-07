@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1359180797 source:c:\mydata\google cloud\acm\11879 multiple of 17\main.c
+	<stdio.h>
+	<stdlib.h>
+

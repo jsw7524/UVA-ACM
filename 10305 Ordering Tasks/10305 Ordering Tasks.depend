@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1385644548 source:c:\google driver\acm\10305 ordering tasks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

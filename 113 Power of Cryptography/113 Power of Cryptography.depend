@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384410895 source:c:\google driver\acm\113 power of cryptography\main.c
+	<stdio.h>
+	<stdlib.h>
+

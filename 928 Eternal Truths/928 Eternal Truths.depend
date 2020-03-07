@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1368884241 source:c:\mydata\google cloud\acm\928 eternal truths\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1365316524 source:c:\mydata\google cloud\acm\700 date bugs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

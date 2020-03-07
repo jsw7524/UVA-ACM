@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413728798 source:c:\users\jsw\google\acm\665 false coin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1359353132 source:c:\mydata\google cloud\acm\11689 soda surpler\main.c
+	<stdio.h>
+	<stdlib.h>
+

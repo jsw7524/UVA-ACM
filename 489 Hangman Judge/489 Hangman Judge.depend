@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1362168338 source:c:\mydata\google cloud\acm\489 hangman judge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

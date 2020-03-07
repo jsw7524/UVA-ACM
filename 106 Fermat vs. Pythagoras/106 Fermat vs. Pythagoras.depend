@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1361693100 source:c:\mydata\google cloud\acm\106 fermat vs. pythagoras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

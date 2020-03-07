@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1336213672 source:c:\myprogram\acm\10063 knuth's permutation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1343533702 source:c:\studyingbooks\10063 knuth's permutation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

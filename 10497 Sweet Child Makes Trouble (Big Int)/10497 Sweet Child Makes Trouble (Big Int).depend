@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359707976 source:c:\mydata\google cloud\acm\10497 sweet child makes trouble (big int)\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410684979 source:c:\users\jsw\google\acm\10599 - robots(ii)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

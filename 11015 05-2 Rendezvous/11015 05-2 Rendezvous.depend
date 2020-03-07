@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1361005559 source:c:\mydata\google cloud\acm\11015 05-2 rendezvous\main.c
+	<stdio.h>
+	<stdlib.h>
+

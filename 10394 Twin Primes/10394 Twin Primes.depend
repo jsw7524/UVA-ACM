@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1371533456 source:c:\mydata\google cloud\acm\10394 twin primes\main.c
+	<stdio.h>
+	<stdlib.h>
+

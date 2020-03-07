@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1360140009 source:c:\mydata\google cloud\acm\10684 the jackpot\main.c
+	<stdio.h>
+	<stdlib.h>
+

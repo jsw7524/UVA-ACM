@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1373179489 source:c:\mydata\google cloud\acm\11475 extend palindromes\main.c
+	<stdio.h>
+	<stdlib.h>
+

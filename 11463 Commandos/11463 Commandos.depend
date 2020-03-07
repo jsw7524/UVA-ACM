@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1388805941 source:c:\google driver\acm\11463 commandos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

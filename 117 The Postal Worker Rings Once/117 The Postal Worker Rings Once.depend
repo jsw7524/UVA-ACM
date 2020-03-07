@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419833997 source:c:\users\jsw\google\acm\117 the postal worker rings once\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

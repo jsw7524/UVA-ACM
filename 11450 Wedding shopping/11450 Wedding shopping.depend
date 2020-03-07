@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1361809120 source:c:\mydata\google cloud\acm\11450 wedding shopping\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

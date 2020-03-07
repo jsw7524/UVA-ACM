@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1365118224 source:c:\mydata\google cloud\acm\311 packets\main.c
+	<stdio.h>
+	<stdlib.h>
+

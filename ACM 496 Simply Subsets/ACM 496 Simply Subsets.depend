@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1345983658 source:c:\studyingbooks\test\acm 496 simply subsets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1355672491 source:c:\mydata\google cloud\acm\acm 496 simply subsets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

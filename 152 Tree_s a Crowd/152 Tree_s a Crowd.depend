@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1356871864 source:c:\mydata\google cloud\acm\152 tree's a crowd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

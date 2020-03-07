@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1366302872 source:c:\mydata\google cloud\acm\11572 unique snowflakes\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400911751 source:c:\users\jsw\google\acm\10364 square\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

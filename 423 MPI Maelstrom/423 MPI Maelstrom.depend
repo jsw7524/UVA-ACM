@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1392792797 source:c:\users\jsw\google ¶³ºÝµwºÐ\acm\423 mpi maelstrom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1394377373 source:c:\users\jsw\google\acm\423 mpi maelstrom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+

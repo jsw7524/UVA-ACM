@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1349707855 source:c:\mydata\google cloud\acm\11773 king's wish\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1350120566 source:c:\mydata\google cloud\acm\acm 11773 king's wish\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

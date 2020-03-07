@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1350870371 source:c:\mydata\google cloud\acm\acm 11462 age sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

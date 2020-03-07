@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397309462 source:c:\users\jsw\google\acm\10141 request for proposal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1387480999 source:c:\google driver\acm\tools\prime\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

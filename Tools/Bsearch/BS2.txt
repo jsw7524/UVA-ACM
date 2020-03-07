@@ -1,0 +1,52 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int Values[501] ;
+
+int MyBinarySearch(int* Array,int Goal,int L,int R)
+{
+    int M;
+    while (L<R)
+    {
+        M=(L+R)/2;
+        if ( Array[M]==Goal )
+        {
+            return M;
+        }
+        else if ( Array[M]<Goal)
+        {
+            R=M;
+        }
+        else
+        {
+            L=M+1;
+        }
+    }
+    return L;
+}
+
+
+
+int main ()
+{
+    int N,I,J,K,Len;
+    while (EOF!=scanf("%d",&N))
+    {
+        Len=1;
+        scanf("%d",&J);
+        Values[0]=J;
+        for (I=1; I<N; I++)
+        {
+            Values[I]=0;
+            scanf("%d",&J);
+            K=MyBinarySearch(Values,J,0,Len);
+            if (K>=Len)
+            {
+                Len++;
+            }
+            Values[K]=J;
+        }
+        printf("%d\n",Len);
+    }
+    return 0;
+}

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1352673903 source:c:\mydata\google cloud\acm\10801 lift hopping\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

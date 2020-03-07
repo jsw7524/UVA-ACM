@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1361000484 source:c:\mydata\google cloud\acm\280 vertex\main.c
+	<stdio.h>
+	<stdlib.h>
+

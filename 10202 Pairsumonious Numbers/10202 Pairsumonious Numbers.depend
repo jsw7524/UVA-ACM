@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413174845 source:c:\users\jsw\google\math\10202 pairsumonious numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

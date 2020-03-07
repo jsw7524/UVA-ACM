@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1362708660 source:c:\mydata\google cloud\acm\12575 sin cos problem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

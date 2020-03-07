@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1363355142 source:c:\mydata\google cloud\acm\10245 the closest pair problem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1353835426 source:c:\mydata\google cloud\acm\11584 partitioning by palindromes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
